@@ -1,0 +1,10 @@
+torch
+transformers
+google-generativeai
+googlemaps
+geopy
+timezonefinder
+pytz
+requests
+python-dotenv
+gradio
